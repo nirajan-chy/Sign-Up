@@ -4,8 +4,8 @@ let transportInfo ={
     port : 587,
     secure : false,
     auth:{
-        user: "nirajanchaudhary00001@gmail.com",
-    pass: "m z d h a g v g u m n l a r g x",
+        user: "gmail",
+    pass: "app_pass",
     }
 };
 export const sendEmail = async (mailInfo)=>{
